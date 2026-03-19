@@ -38,6 +38,9 @@ conda install numpy pandas matplotlib pyqt gymnasium pygame -c conda-forge -y
 ├── model/              # 自动保存的模型权重文件 (.pth)  
 ├── data/               # 自动保存的训练日志 (.csv) 与分析图表  
 └── 最优路径/            # 训练过程中自动抓拍的最优路线截图  
+
+![env_demo_2_size10_complex](https://github.com/user-attachments/assets/1934181c-1f7c-4066-bedb-5f09267a10af)
+![env_demo_4_size18_complex](https://github.com/user-attachments/assets/77abcef2-87a7-46da-8032-1b1c9fe86d66)
 <img width="1416" height="888" alt="界面1" src="https://github.com/user-attachments/assets/7c343794-7d2b-4ac4-b2fb-a2be38ba155e" />
 <img width="1416" height="888" alt="2" src="https://github.com/user-attachments/assets/d0a41ce6-198a-4ab6-8c4b-480444c7cbb8" />
 <img width="1416" height="888" alt="3" src="https://github.com/user-attachments/assets/fd0d7dcc-97be-4fd2-bc0f-b16bf11ad505" />
